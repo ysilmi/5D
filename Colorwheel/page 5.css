@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	width: 768px;
+	height: 1024px;
+	margin: auto;
+	background-color: #D2F3FE;
+	position: fixed;
+	width: 768px;
+	height: 1024px;
+ 	border: 10px solid #1C2833;
+ 	top: 50px;
+}
+
+.picture.png
+{
+	width: 25%;
+	position: fixed;
+	top: 20px;
+	left: 40px;
+} 
+
+.Apple {
+	font-family: "arial"; 
+	font-weight: 0px;
+	font-size: 20px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: relative;
+	top: -520px;
+	right: -260px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+.Apple:hover {
+	background-color: #39DE28;
+	color:#F2F3F4;
+}
+
+.Blueberry {
+	font-family: "arial";
+	font-weight: 100px;
+	font-size: 20px;
+	text-decoration: none;
+
+	position: relative;
+	top: -530px;
+	right: -355px;
+	z-index: 101;
+
+	border-radius: 58%;
+	padding: 10px 10px;
+
+	color:#F2F3F4;
+}
+
+.Blueberry:hover{
+	background-color: #4094FF;
+	color: #F2F3F4;
+}
+.Grape {
+	font-family: "arial"; 
+	font-weight: 0px;
+	font-size: 20px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: relative;
+	top: -660px;
+	right: -320px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+.Grape:hover {
+	background-color: #9531DC;
+	color:#F2F3F4;
+}
+.Strawberry {
+	font-family: "arial"; 
+	font-weight: 0px;
+	font-size: 20px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: relative;
+	top: -794px;
+	right: -147px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+.Strawberry:hover {
+	background-color: #FF1A1A;
+	color:#F2F3F4;
+}
+
+.Orange {
+	font-family: "arial"; 
+	font-weight: 0px;
+	font-size: 20px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: relative;
+	top: -792px;
+	right: 122px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+.Orange:hover {
+	background-color: #F39C12;
+	color:#F2F3F4;
+}
+
+.Lemon {
+	font-family: "arial"; 
+	font-weight: 0px;
+	font-size: 20px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: relative;
+	top: -665px;
+	right: 280px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+.Lemon:hover {
+	background-color: #FEFF1E;
+	color:#F2F3F4;
+}

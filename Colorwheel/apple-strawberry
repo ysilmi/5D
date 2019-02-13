@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+  		<title> Color Wheel</title>
+		<link rel="stylesheet" type="text/css"  href="apple-strawberry.css" />
+	</head>
+	<style>
+		body {
+		background-color: #D0D3D4 
+	}
+</style>
+	<body>
+	<div class="container">
+		<img src="apple-strawberry" height="1024"px />
+		
+		<a href="Applepage.html" class= "Apple">Apple</a>
+
+		<a href="Blueberry" class= "Blueberry">Blueberry</a>
+		<a href="Grape" class= "Grape">Grape</a>
+		<a href="Strawberry" class="Strawberry">Strawberry</a>
+		<a href="Orange" class= "Orange">Orange</a>
+		<a href="Lemon" class= "Lemon">Lemon</a>
+		<a href="Apple" class= "Apple">Apple</a>
+	</div>
+</body>
+</html>
