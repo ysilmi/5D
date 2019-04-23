@@ -6,10 +6,16 @@
 	height:100%;
 	position: fixed;
 }
+
+body{
+	margin:0px;
+
+}
 .container{
-	height:100%;
-	width:100%;
-	background-image: url(hovercapture.jpg)
+	height:805px;
+	width:1440px;
+	background-image: url(homepage.jpg);
+	margin: none;
 }
 a.Paint {
 	font-size: 60px;
@@ -42,7 +48,6 @@ a.Paint:hover:after {
 
 }
 
-
 a.Design {
 	font-size: 60px;
 	font-family: futura;
@@ -73,9 +78,6 @@ a.Design:hover:after {
     top: -334px;
 
 }
-
-
-
 
 a.Capture {
 	font-size: 60px;
