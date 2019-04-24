@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container {
+	width: 1000px;
+	position: fixed;
+}
+
+
+.Home {
+
+	font-family: "futura"; 
+	font-weight: 0px;
+	font-size: 40px;
+	color:transparent;
+	text-decoration: none;
+	
+	position: absolute;
+	top: 100px;
+	right: 780px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+.Home:hover {
+	
+	color:#F2F3F4;
+}
+
+
+.info {
+	font-family: "impact"; 
+	font-weight: 0px;
+	font-size: 35px;
+	color:transparent;
+	text-decoration: none;
+	
+	position: absolute;
+	top: 0px;
+	right: -410px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10p20
+}
+
+
+
+
+.GroupChats {
+	font-family: "futura"; 
+	font-weight: 0px;
+	font-size: 35px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: absolute;
+	top: 250px;
+	right: 600px;
+	z-index: 101;
+	
+
+	padding: 10px 10px;
+}
+
+.GroupChats:hover {
+	
+	color:#92DF00;
+}
+
+.FindClassmates {
+	font-family: "futura";
+	font-weight: 0px;
+	font-size: 35px;
+	text-decoration: none;
+
+	position: absolute;
+	top: 350px;
+	right: 550px;
+	z-index: 101;
+
+	border-radius: 58%;
+	padding: 10px 10px;
+
+	color:#F2F3F4;
+}
+
+.FindClassmates:hover{
+	color: #56A0E6;
+}
+.MyClasses {
+	font-family: "futura"; 
+	font-weight: 0px;
+	font-size: 35px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: absolute;
+	top: 450px;
+	right: 623px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+.MyClasses:hover {
+	color:#DC32E6;
+}
+.Calendar {
+	font-family: "futura"; 
+	font-weight: 0px;
+	font-size: 35px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: absolute;
+	top: 550px;
+	right: 655px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+.Calendar:hover {
+	color:#FF625F;
+}
+
+.QA {
+	font-family: "futura"; 
+	font-weight: 0px;
+	font-size: 35px;
+	color: #F2F3F4;
+	text-decoration: none;
+	
+	position: absolute;
+	top: 650px;
+	right: 700px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+.QA:hover {
+	color:#E4BE00;
+}
+
+
+.page2 {
+	font-family: "futura"; 
+	font-weight: 0px;
+	font-size: 100px;
+	color: transparent;
+	text-decoration: none;
+	
+	position: absolute;
+	top: 350px;
+	right: -300px;
+	z-index: 101;
+	
+	border-radius: 58%;
+	padding: 10px 10px;
+}
+
+
+
+
+
+
+

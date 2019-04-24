@@ -1,81 +1,166 @@
 @charset "utf-8";
+.container{
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	display:flex;
+	align-items: center;
+	justify-content: center;  
+
+}
+
+.persona{
+	position: relative;
+	
+}
 
 .header {
   padding: 20px;
   text-align: center;
-  background: #1abc9c;
+  position:relative;
+  background: #2F2F2F;
+  font-family: arial;
   color: white;
   font-size: 30px;
+  top:50px;
+
+}
+
+.p {
+	color:#212020 ;
+}
+
+.Findmyclassmatesapp {
+	font-family: "arial";
+	font-size: 30px;
+	text-decoration: none;
+	padding:20px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+	align-items: center;
+	position: relative;
+	width:20%;
+	top: -250px;
+	right: 0px;
+	border: double; 
+	border-color: #000000;
+	border-radius: 100%;
+	border-width: 10px;
+	padding: 50px 10px;
+	background-color: #2F2F2F;
+	color:#F2F3F4;
+}
+
+.Findmyclassmatesapp:hover {
+	color:#212020;
+	font-style:oblique;
 }
 
 .ProblemStatement {
 	font-family: "arial";
-	font-weight: 0px;
-	font-size: 40px;
-	
+	font-size: 30px;
+	text-decoration: none;
+	width:20%;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+	align-items: center;
 	position: relative;
-	top: 450px;
+	top: -250px;
 	right: 0px;
-	z-index: 101;
-	
-	border: solid 5px;
-	border-color: #1C2833;
-	border-radius: 58%;
+	border: double; 
+	border-color: #000000;
+	border-radius: 100%;
+	border-width: 10px;
 	padding: 50px 10px;
-	background-color: #85C4A0;
+	background-color: #2F2F2F;
 	color:#F2F3F4;
 
 }
 
+.ProblemStatement:hover {
+	color:#212020;
+	font-style:oblique;
+
+}
+
+
 .Participants {
 	font-family: "arial";
-	font-weight: 0px;
-	font-size: 40px;
-	
+	font-size: 30px;
+	text-decoration: none;
+	padding:20px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+	align-items: center;
 	position: relative;
-	top: 450px;
+	top: -250px;
 	right: 0px;
-	z-index: 101;
-	
-	border: solid 5px;
-	border-color: #1C2833;
-	border-radius: 58%;
+	border: double; 
+	border-width: 10px;
+	border-color: #000000;
+	border-radius: 100%;
 	padding: 50px 10px;
-	background-color: #85C4A0;
+	background-color: #2F2F2F;
 	color:#F2F3F4;
+}
+
+.Participants:hover {
+	color:#212020;
+	font-style:oblique;
+
 }
 
 .Persona {
 	font-family: "arial";
-	font-weight: 0px;
-	font-size: 40px;
-	
+	font-size: 30px;
+	text-decoration: none;
+	padding:20px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+	align-items: center;
 	position: relative;
-	top: 450px;
+	top: -250px;
 	right: 0px;
-	z-index: 101;
-	
-	border: solid 5px;
-	border-color: #1C2833;
-	border-radius: 58%;
+	border: double; 
+	border-width: 10px;
+	border-color: #000000;
+	border-radius: 100%;
 	padding: 50px 10px;
-	background-color: #85C4A0;
+	background-color: #2F2F2F;
 	color:#F2F3F4;
+}
+.Persona:hover {
+	color:#212020;
+	font-style:oblique;
+
 }
 .Swipefile {
 	font-family: "arial";
-	font-weight: 0px;
-	font-size: 40px;
-	
+	font-size: 30px;
+	text-decoration: none;
+	padding:20px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
+	align-items: center;
 	position: relative;
-	top: 450px;
+	top: -250px;
 	right: 0px;
-	z-index: 101;
-	
-	border: solid 5px;
-	border-color: #1C2833;
-	border-radius: 58%;
+	border: double; 
+	border-color: #000000;
+	border-width: 10px;
+	border-radius: 78%;
 	padding: 50px 10px;
-	background-color: #85C4A0;
+	background-color: #2F2F2F;
 	color:#F2F3F4;
+}
+
+.Swipefile:hover {
+	color:#212020;
+	font-style:oblique;
+
 }
