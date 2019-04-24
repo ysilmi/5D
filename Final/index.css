@@ -19,11 +19,12 @@ body{
 }
 a.Paint {
 	font-size: 60px;
-	font-family: futura;
+	font-family: garamound;
 	z-index: 101;
 	position: absolute;
 	display: block;
 	color:#FF7960;
+	letter-spacing: .05em;
 	top: 510px;
 	left: 520px;
 	text-decoration: none;
@@ -36,6 +37,8 @@ a.Paint {
 a.Paint:hover {
 	image:url(hoverpaint.jpg);
 	color:#FCBE95;
+	font-style: italic;
+	 letter-spacing: .2em; 
 }
 
 a.Paint:hover:after {
@@ -50,7 +53,7 @@ a.Paint:hover:after {
 
 a.Design {
 	font-size: 60px;
-	font-family: futura;
+	font-family: garamound;
 	z-index: 101;
 	position: absolute;
 	display: block;
@@ -67,6 +70,8 @@ a.Design {
 a.Design:hover {
 	image:url(designhover.jpg);
 	color:#FCBE95;
+	font-style: italic;
+	letter-spacing: .2em; 
 }
 
 a.Design:hover:after {
@@ -74,14 +79,14 @@ a.Design:hover:after {
     display: block;
     position: absolute;
     color:#FCBE95;
-    left: 278px;
-    top: -334px;
+    left: 240px;
+    top: -373px;
 
 }
 
 a.Capture {
 	font-size: 60px;
-	font-family: futura;
+	font-family: garamound;
 	z-index: 101;
 	position: absolute;
 	display: block;
@@ -98,6 +103,8 @@ a.Capture {
 a.Capture:hover {
 	image:url(hovercapture.jpg);
 	color:#FCBE95;
+	font-style: italic;
+	letter-spacing: .2em; 
 }
 
 a.Capture:hover:after {
@@ -105,5 +112,5 @@ a.Capture:hover:after {
     display: block;
     position: absolute;
     color:#FCBE95;
-    left: 275px;
-    top: -545px;
+    left: 260px;
+    top: -572px;
