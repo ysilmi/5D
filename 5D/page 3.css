@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	width: 768px;
+	height: 1024px;
+	margin: auto;
+	background-color: #D2F3FE;
+	position: fixed;
+	width: 768px;
+	height: 1024px;
+ 	border: 10px solid #1C2833;
+ 	top:50px;
+}
+
+.picture.png
+{
+	width: 25%;
+	position: fixed;
+	top: 20px;
+	left: 40px;
+} 
+
+.Continue {
+	font-family: "arial";
+	font-weight: 0px;
+	font-size: 40px;
+	
+	position: relative;
+	top: 950px;
+	right: -50px;
+	z-index: 101;
+	
+	border: solid 5px;
+	border-color: #1C2833;
+	border-radius: 58%;
+	padding: 50px 10px;
+	background-color:#A6ACAF;
+	color:#F2F3F4;
+}
+
+.Continue:hover {
+	background-color: #F4D03F;
+	color:#F2F3F4;
+}
